@@ -1,0 +1,11 @@
+#eventleft{width:170px;float:left;display:inline;padding:10px 0;}
+#eventright{width:410px;float:right;display:inline;padding:10px 0;}
+.jCalMo {
+float:left;
+height:100%;
+overflow:visible;
+padding-left:2px;
+padding-right:2px;
+white-space:nowrap;
+width:210px;
+}
