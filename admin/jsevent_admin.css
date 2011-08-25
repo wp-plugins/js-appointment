@@ -1,0 +1,20 @@
+/* WP Real estate agent admin styles */
+
+.p_description{
+font-family:"Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+font-size:10px;
+font-style:italic;
+color:#666666;
+float:left;
+width:230px;
+
+}
+
+#service-meta-boxes .form-table td input[type="checkbox"] {
+
+height: 30px;
+vertical-align: baseline;
+position: absolute;
+top:70px;
+margin-left:-20px;
+}
