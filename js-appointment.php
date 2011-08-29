@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Plugin Name: js-appointment
 Plugin URI: http://www.joomlaskin.it
